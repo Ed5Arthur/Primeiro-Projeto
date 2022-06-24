@@ -1,0 +1,4 @@
+Informe Email
+Informe Senha
+Informe Idade
+Realize o teste para saber se é robo
